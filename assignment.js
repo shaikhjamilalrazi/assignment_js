@@ -1,3 +1,5 @@
+// https://github.com/shaikhjamilalrazi/assignment_js
+
 // 1. kilometer To meater conversion
 function kilometerToMeter(kilometer) {
   var meter = kilometer * 1000;
@@ -67,7 +69,7 @@ function hotelCost(numberOfDays) {
 console.log(hotelCost(1));
 
 // 4. Mega Friend
-var arrFriends = ["jamil", "noor"];
+var arrFriends = ["jamil", "nur", "shofiq"];
 
 function megaFriend(nameList) {
   var largestName = nameList[0];
