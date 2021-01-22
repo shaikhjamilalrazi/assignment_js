@@ -100,7 +100,7 @@ function hotelCost(numberOfDays) {
 /*
 // 4. Mega Friend
 */
-var arrFriends = ["jamil", "nur", "shofiq"];
+var arrFriends = ["jamil", "nur", "shofiq", "safayth"];
 
 function megaFriend(nameList) {
   var largestName = nameList[0];
